@@ -18,7 +18,8 @@ Provides a seamless experience for accessing **iDNS Portal** on Android devices.
 👉 [Download APK](https://github.com/iMallpa/iDNSPortal/releases/) and install on your device.
 
 ## 🖼️ Screenshots
-[Screenshot](./img.jpg)
+Here’s a preview of the app in action:
+![Screenshot](./img.jpg)
 
 ## ⚠️ Disclaimer
 This app is **not affiliated** with **iDNS Portal** or its original developers.  
