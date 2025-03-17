@@ -15,10 +15,10 @@ Provides a seamless experience for accessing **iDNS Portal** on Android devices.
 - 🚫 **Not optimized for newer Android versions** – Some features may not work correctly on Android 10+.
 
 ## 📥 Download
-👉 [Download APK](https://github.com/iDNSPortal/releases) and install on your device.
+👉 [Download APK](https://github.com/iMallpa/iDNSPortal/releases/) and install on your device.
 
 ## 🖼️ Screenshots
-*(Add screenshots here to showcase the app interface.)*
+<img source="./img.jpg">
 
 ## ⚠️ Disclaimer
 This app is **not affiliated** with **iDNS Portal** or its original developers.  
